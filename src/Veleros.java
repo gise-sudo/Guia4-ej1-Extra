@@ -17,7 +17,7 @@ public class Veleros extends Barco {
  
   public void calcularPrecio(int precio){
       System.out.println("hola");
-      System.out.println("Holaaaaa");
+      System.out.println("Holaaaaa hola");
   } 
     
     
